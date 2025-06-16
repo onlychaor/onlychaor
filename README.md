@@ -269,7 +269,7 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:congthuan7502@gmail.com" target="_blank">
+<a href="congthuan7502@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="congthuan7502@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
@@ -277,8 +277,8 @@
 <img src="./twitter.png" width=50 height=50 alt="ChaoR" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/ChaoR" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+<a href="[https://www.instagram.com/ChaoR](https://www.instagram.com/nct_131/)" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="ChaoR" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.githubcom/ChaoR" target="_blank">
